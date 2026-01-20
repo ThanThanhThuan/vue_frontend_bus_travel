@@ -1,4 +1,4 @@
-# Bus Travel App With Vue 3 + Vite
+# Bus Travel App With Vue 3 + Vite, with backend from Nodejs, Express, MongoDB
 
 View live at: https://thanbus.netlify.app/
 Click Book Trip.
